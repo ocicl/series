@@ -1,0 +1,7 @@
+* series
+
+|---------+---------------------------------------------|
+| source  | git:git/quicklisp-projects/projects/series/ |
+| commit  | da9061b                                     |
+| systems | series                                      |
+|---------+---------------------------------------------|
