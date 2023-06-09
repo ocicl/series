@@ -1,7 +1,7 @@
 * series
 
-|---------+---------------------------------------------|
-| source  | git:git/quicklisp-projects/projects/series/ |
-| commit  | da9061b                                     |
-| systems | series                                      |
-|---------+---------------------------------------------|
+|---------+-------------------------------------------|
+| source  | git:git://git.code.sf.net/p/series/series |
+| commit  | da9061b                                   |
+| systems | series                                    |
+|---------+-------------------------------------------|
